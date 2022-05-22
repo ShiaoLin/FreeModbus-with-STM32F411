@@ -1,1 +1,1 @@
-# FreeModbus-with-STM32F429
+# FreeModbus-with-STM32F11
